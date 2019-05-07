@@ -1,7 +1,7 @@
 # Ship-Track
 Linux + OpenCV<br>
   原圖<br>
-  ![img](https://github.com/liangsmfish/Ship-Track/blob/master/img/231_1.jpg)
+  ![img](https://github.com/liangsmfish/Ship-Track/blob/master/img/231_1.jpg) <br>
   1.利用 OPENCV 內建 knn 函式建立背景模型<br>
   2.利用 GaussianBlur 前處理並轉灰階影像<br>  
   ![img2](https://github.com/liangsmfish/Ship-Track/blob/master/img/231_2.jpg)
