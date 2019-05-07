@@ -1,6 +1,6 @@
 # Ship-Track
 Linux + OpenCV<br>
-  原圖
+  原圖<br>
   ![img](https://github.com/liangsmfish/Ship-Track/blob/master/img/231_1.jpg)
   1.利用 OPENCV 內建 knn 函式建立背景模型<br>
   2.利用 GaussianBlur 前處理並轉灰階影像<br>  
@@ -20,5 +20,6 @@ Linux + OpenCV<br>
   
   7.最後修正 MedianBlur + dilate(9x9)<br>
   ![img7](https://github.com/liangsmfish/Ship-Track/blob/master/img/231_7.jpg)
+  
   8.DrawContours 畫出輪廓<br>
   ![img8](https://github.com/liangsmfish/Ship-Track/blob/master/img/231_8.jpg)
